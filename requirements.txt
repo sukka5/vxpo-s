@@ -1,0 +1,6 @@
+pyrogram
+requests
+tgcrypto
+ffmpeg
+youtube-dl
+hachoir
